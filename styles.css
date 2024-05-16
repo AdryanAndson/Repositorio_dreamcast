@@ -1,0 +1,66 @@
+
+body{
+    background-image: url('img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    max-width: 200px; /* Reduz a largura máxima da logo para 200 pixels */
+    width: 100%; /* Faz com que a logo ocupe toda a largura disponível */
+    height: auto; /* Altura automática para manter a proporção */
+    display: block; /* Transforma a imagem em um bloco para poder centralizá-la */
+    margin: 0 auto; /* Centraliza a logo horizontalmente */
+}
+/* styles.css */
+
+.resumo {
+    font-size: 11px;
+    text-align: center;
+    font-weight: 100;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra mais suave */
+    font-weight: bold; /* Eu removi essa linha, pois você a duplicou */
+}
+
+
+@font-face {
+    font-family: 'Segan-Light';
+    src: url('Segan-Light.ttf') format('truetype');
+  }
+
+.game{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    position: relative;
+    overflow: hidden;
+    left: 10px;
+    padding: 0;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px;
+}
+
+.game img{
+    width: 100%;
+    height: auto;
+}
+.overlay{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(42, 42, 44, 0.5);
+    color: #fff;
+    padding: 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.overlay:hover {
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+}
+
+img:hover{
+    opacity: 0.5;
+}
