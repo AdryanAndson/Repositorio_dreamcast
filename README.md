@@ -1,7 +1,8 @@
 # Dreamcast Project
 
-Bem-vindo ao projeto Dreamcast! Este repositório contém um site dedicado ao console de videogame Dreamcast, apresentando algumas capas de jogos e músicas.
 ![](https://i.pinimg.com/originals/8d/54/fd/8d54fdb562eee9db7d6643adcdc9c8fb.gif)
+
+Bem-vindo ao projeto Dreamcast! Este repositório contém um site dedicado ao console de videogame Dreamcast, apresentando algumas capas de jogos e músicas.
 
 ## Sobre o Dreamcast
 
