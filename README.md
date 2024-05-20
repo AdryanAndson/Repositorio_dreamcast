@@ -45,7 +45,6 @@ Contribuições são bem-vindas! Se você deseja adicionar novas capas de jogos,
    git push origin nova-funcionalidade
    ```
 5. Abra um _pull request_ para revisão.
-6. 
 ---
 
 Aproveite e reviva a nostalgia do Dreamcast! 🎮✨
