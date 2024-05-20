@@ -45,11 +45,7 @@ Contribuições são bem-vindas! Se você deseja adicionar novas capas de jogos,
    git push origin nova-funcionalidade
    ```
 5. Abra um _pull request_ para revisão.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+6. 
 ---
 
 Aproveite e reviva a nostalgia do Dreamcast! 🎮✨
