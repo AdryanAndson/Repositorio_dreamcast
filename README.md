@@ -1,3 +1,5 @@
+
+
 # Dreamcast Project
 
 ![Dreamcast Logo](https://i.pinimg.com/originals/8d/54/fd/8d54fdb562eee9db7d6643adcdc9c8fb.gif)
@@ -19,3 +21,35 @@ Para acessar o site, siga os passos abaixo:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/AdryanAndson/Repositorio_dreamcast.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Repositorio_dreamcast
+   ```
+3. Abra o arquivo `index.html` em seu navegador preferido.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você deseja adicionar novas capas de jogos, músicas ou melhorar a funcionalidade do site, siga os passos abaixo:
+1. Faça um _fork_ deste repositório.
+2. Crie um _branch_ para sua funcionalidade:
+   ```bash
+   git checkout -b nova-funcionalidade
+   ```
+3. Faça suas alterações e _commits_:
+   ```bash
+   git commit -m "Adiciona nova funcionalidade"
+   ```
+4. Envie suas alterações para o seu repositório:
+   ```bash
+   git push origin nova-funcionalidade
+   ```
+5. Abra um _pull request_ para revisão.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Aproveite e reviva a nostalgia do Dreamcast! 🎮✨
